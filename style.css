@@ -1,0 +1,106 @@
+
+.bodyfont{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+}
+
+.rectangle{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+ 
+}
+
+.rectangle-center{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    color:#008fef;
+}
+
+.bodycolor{
+    background-color: gray;
+    
+}
+#rectanglebox{
+
+    
+    margin-top: 1%;
+    background-color: white;
+    width: 700px;
+    height: 700px;
+    margin-bottom: 1%;
+    border-radius: 30px;
+
+}
+#addlost{
+
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    color: #008fef;
+    font-weight: bold;
+
+}
+#textcontainer{
+    margin-top: 20px;
+    width: 640px;
+    height: 60px;
+    border-radius: 30px; /* pang curve ng edges ng box*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#textcontainer2{
+    margin-top: 20px;
+    width: 640px;
+    height: 150px;
+    border-radius: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#addimage{
+    margin-top: 25px;
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #008fef;
+    color:white;
+    border: none;
+   
+
+}
+#butpost{
+    margin-top: 25px;
+    width: 125px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #008fef;
+    color:white;
+    border: none;
+}
+#butcancel{
+    margin-top: 25px;
+    width: 125px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #008fef;
+    color:white;
+    border: none;
+}
